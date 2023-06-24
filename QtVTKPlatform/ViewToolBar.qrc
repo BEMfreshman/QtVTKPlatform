@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/ViewToolBar">
+        <file>Icon/ViewToolBar/Back.png</file>
+        <file>Icon/ViewToolBar/Down.png</file>
+        <file>Icon/ViewToolBar/Front.png</file>
+        <file>Icon/ViewToolBar/Left.png</file>
+        <file>Icon/ViewToolBar/Right.png</file>
+        <file>Icon/ViewToolBar/Up.png</file>
+        <file>Icon/ViewToolBar/FitSize.png</file>
+        <file>Icon/ViewToolBar/start.png</file>
+        <file>Icon/ViewToolBar/MouseDefault.png</file>
+        <file>Icon/ViewToolBar/ShowPoint.png</file>
+        <file>Icon/ViewToolBar/pickPoint.png</file>
+    </qresource>
+</RCC>
